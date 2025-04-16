@@ -1,0 +1,9 @@
+- [x] Have some sort of idea for what to do
+- [x] create a foundation of what to do 
+- [x] Do some reasearch on other projects like this
+- [x] Create the tkinter platform on python
+- [x] Figure out how to interegrate pandas and how to use appropriate files for the python file 
+- [x] Finish the quizes 
+- [x] Complete Sprint 1,2,3
+- [x] Make a powerpoint explainging everything 
+- [x] Present and sumbit
