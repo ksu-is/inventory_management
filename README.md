@@ -17,7 +17,7 @@
 # How to use this 
 Simply just run the script and you will see gui on your desktop. From that you can add, remove and manage your piles of data.  
 
-#Known Issues
+# Issues
 - Do not know how to set up pandas properly
 
 # Future Enhancements
